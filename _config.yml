@@ -6,8 +6,7 @@ title: Alexandre Lagier # the website title (if blank, full name will be used in
 first_name: Alexandre
 middle_name:
 last_name: Lagier
-contact_note: >
-  Email is the best way to reach me.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Alexandre Lagier, computer science student at ENS de Lyon working on generative models and inverse problems in imaging.
 footer_text: >

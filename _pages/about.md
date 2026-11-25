@@ -23,6 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 I am a Master's student in Computer Science at [École Normale Supérieure de Lyon](https://www.ens-lyon.fr/). My research interests are **image reconstruction**, **diffusion and flow-based generative models**, and **neural architectures**.
 
-I am currently a research intern at [MaLGa](https://malga.unige.it/) in Genoa, supervised by [Luca Calatroni](https://sites.google.com/view/lucacalatroni), where I apply generative methods to inverse problems in microscopy. Before that, I worked on provably convergent generative solvers for inverse problems in imaging at Inria Lyon with [Ségolène Martin](https://segolenemartin.github.io/), [Mathurin Massias](https://mathurinm.github.io/) and [Anne Gagneux](https://annegnx.github.io/).
+I am currently a research intern at [MaLGa](https://malga.unige.it/) in Genoa, supervised by [Luca Calatroni](https://sites.google.com/view/lucacalatroni), where I apply generative methods to inverse problems in microscopy. Before that, I worked on provably convergent generative solvers for inverse problems in imaging in the OCKHAM team at Inria Lyon with [Ségolène Martin](https://segolenemartin.github.io/), [Mathurin Massias](https://mathurinm.github.io/) and [Anne Gagneux](https://annegnx.github.io/).
