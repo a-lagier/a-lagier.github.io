@@ -5,9 +5,11 @@ cv_pdf: /assets/pdf/resume_LAGIER.pdf # path to your CV PDF file
 email: aalexandre.lagier@gmail.com # your email address
 rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: # your Google Scholar ID
+github_username: a-lagier # your GitHub user name
+linkedin_username: lagier-al # your LinkedIn user name
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
 #   logo:  # can be png, svg, jpg
-#   title: 
-#   url: 
+#   title:
+#   url:
